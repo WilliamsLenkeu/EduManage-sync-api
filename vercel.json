@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "functions": {
+    "api/sync/push.js": { "maxDuration": 30 },
+    "api/sync/pull.js": { "maxDuration": 30 }
+  }
+}
